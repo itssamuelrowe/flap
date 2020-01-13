@@ -1,0 +1,4 @@
+
+python manage.py
+# Alternatively
+# flask run --extra-files app
