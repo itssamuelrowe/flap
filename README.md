@@ -1,8 +1,8 @@
 # Flap
 
-Flap is a simple utility for bootstraping Flask projects. Flap is the poor mans
-equivalent of Create React App for Flask. It requires no configuration. Further,
-you are free to customize the script however you see fit.
+Flap is a simple utility for bootstrapping Flask projects. In other words, it
+is the poor mans equivalent of Create React App for Flask. It requires no
+configuration. Further, you are free to customize the script however you see fit.
 
 ## Quick Overview
 
